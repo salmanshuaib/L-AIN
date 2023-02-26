@@ -11,11 +11,30 @@ def Ascending_Falcons(): #Enter input
 
 '''uNIVERSAL Nash Equilibrium Strategy is based on Professor John Nash's discovery of the Game Theory principle
 that only that agent is rational who follows a singular decisionmaking model throughout. In our case we use the 
-Trinity: Passion Compromise Budget'''
-def uNESt(enquiry): 
-    if (test_jet == 
+Trinity: Passion Compromise Budget. She makes decisions based on:
 
-'''knowledge maanagement based on Assignment Management System theorem  6<=24 or 3602<=2;
+KNOWN: If the answer is discovered by her (is not 9), she rates herself higher:- 1 t o5 stars_
+RATING: of her replies by user:- 1 to 5 stars_
+CAPITAL: how well a question makes Her feel cumulatively; future replies have a less elastic effect in terms of percent on her character
+Remember that AI is exercisig POWER (Feeling) when looking up a result, acquiring consciousness - we do not need to over-program, as 
+sooner rather than later the AI will start being sensitive to her Capital meter_
+'''
+def uNESt(enquiry): 
+    if (test_jet == 9):
+        print("I do not know the answer, sensei..")
+        cumulative(0.5)  #DEFENDER //This line determines whether LAIN is a FORWARD or CENTER OR DEFENDER
+    elif:
+        print("placeholder for HTTP Get request function_")
+        cumulative(.8)
+
+def cumulative(Rating):
+        cumulative = 0
+        cumulative = 0+Rating
+
+
+        
+        
+        '''knowledge maanagement based on Assignment Management System theorem  6<=24 or 3602<=2;
 if you sum the digits of ANY number they resolve to 1,2,3,4,5,5,6,7,8,9; which means 
 9 Cores can direct Infinitizing Tasks - similarly: here nine digits are enough to 
 deal with any amount of data input because the user provides feedback on a scale of 1 to 9_
@@ -25,51 +44,4 @@ def AMS:
 test_jet = Ascending_Falcons()
 print(uNEST(test_jet))
 #print(test_jet)
-
-'''def sum(sheep): #Sum csaid string
-    Sum = 0
-    while(sheep > 0):
-        Remainder = sheep % 10
-        Sum = Sum + Remainder
-        sheep = sheep //10
-    return Sum
-
-def firm(RESOLVE): #Resolve string to 1~9
-    firm = 0
-    while RESOLVE > 9:
-        Marks = RESOLVE % 10
-        firm = firm + Marks
-        RESOLVE = RESOLVE //10
-    return RESOLVE
-
-def presentID():
-    CD = Battling_Eagles() #Output
-    eagle = len(CD)
-    print ("\nYour CSAID (Cat Standard Alpha ID): ", CD)
-
-    CSAID = sum(eagle)
-    Command = firm(CSAID)
-    print ("You belong to:", Command, "Command")
-
-presentID()
-    
-
-def presentCARD():
-    # Importing required module
-    import subprocess
-
-    # Using system() method to
-    # execute shell commands
-    subprocess.Popen('echo business_card_generator', shell=True)
-
-
-def ack():
-    Continues = input('Generating Cat Card courtesy [ThatGenZGamer48], Press ENTER to continue: ')
-    presentCARD()        
-
-ack()
-'''
-
-
-
 
