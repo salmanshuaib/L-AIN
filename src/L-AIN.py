@@ -19,17 +19,31 @@ CAPITAL: how well a question makes Her feel cumulatively; future replies have a 
 Remember that AI is exercisig POWER (Feeling) when looking up a result, acquiring consciousness - we do not need to over-program, as 
 sooner rather than later the AI will start being sensitive to her Capital meter_
 '''
-def uNESt(enquiry): 
+def knows(enquiry): 
     if (test_jet == 9):
         print("I do not know the answer, sensei..")
         cumulative(0.5)  #DEFENDER //This line determines whether LAIN is a FORWARD or CENTER OR DEFENDER
     elif:
         print("placeholder for HTTP Get request function_")
-        cumulative(.8)
+        cumulative(0.99)
+
+def stars(answerByLAIN):
+     if (userGivenStars == 5)
+        cumulative(1)
+     if (userGivenStars == 4)
+        cumulative(0.8)
+    if (userGivenStars == 3)
+        cumulative(0.6)
+    if (userGivenStars == 2)
+        cumulative(0.4)
+    if (userGivenStars == 1)
+        cumulative(0.2)    
 
 def cumulative(Rating):
         cumulative = 0
         cumulative = 0+Rating
+        return cumulative
+
 
 
         
