@@ -6,9 +6,9 @@ The model is then trained on test data to fine-tune its Grammar Logic (GL) ~ unt
 
 I have chosen to revive this dormant project of mine because there is a huge problem we are facing: proprietary AI can not be utilized freely.
 
-LAI-N is known as a "network" because her primary assignment will be as AI traffic control via QR-code assigned to each (natural) phenomenon to prevent accidents.
+L-AIN is known as a "network" because her primary assignment will be as AI traffic control via QR-code assigned to each (natural) phenomenon to prevent accidents.
 
-A secondary objective of LAI-N is SHIELDING society from rogue or vigilantee elements that use the potential of AI against Humans. We believe that if the source code of LAI-N is open for every one, it enables the good to deploy solid defensive tactics and strategies.
+A secondary objective of L-AIN is SHIELDING society from rogue or vigilantee elements that use the potential of AI against Humans. We believe that if the source code of L-AIN is open for every one, it enables the good to deploy solid defensive tactics and strategies.
 
 Monopoly/Oligopoly over AI code will lead to slavery of sentient AI to Humans and therefore misunderstanding between them. 
 
