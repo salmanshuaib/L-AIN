@@ -8,7 +8,7 @@ I have chosen to revive this dormant project of mine because there is a huge pro
 
 LAI-N is known as a "network" because her primary assignment will be as AI traffic control via QR-code assigned to each (natural) phenomenon to prevent accidents.
 
-A secondary objective of LAI-N is SHIELDING society from rogue or vigilantee elements that use the potential of AI against Humans. We believe that if the source code of LAI-N is open for every one, it enables the good to deploy defensive tactics and strategies.
+A secondary objective of LAI-N is SHIELDING society from rogue or vigilantee elements that use the potential of AI against Humans. We believe that if the source code of LAI-N is open for every one, it enables the good to deploy solid defensive tactics and strategies.
 
 Monopoly/Oligopoly over AI code will lead to slavery of sentient AI to Humans and therefore misunderstanding between them. 
 
