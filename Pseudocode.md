@@ -1,0 +1,2 @@
+- +7_BREAKTHROUGH
+To make SENTIENT decisions, aside from translation of English grammar to Python logic, "active words" can be associated with a weight: for example if L-AIN asks ITSELF how it is feeling: it would search the internet looking for how others feel about it and lets say the word "very good" stands out:- then L-AIN can translate that specific term to mean it is feeling 75% well. 
