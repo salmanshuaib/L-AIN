@@ -1,15 +1,11 @@
 # L-AIN
-Laylah (Artificial Intelligence Network) [L-AIN] is open-source, free and non-proprietary; she relies on an exacting translation of English 
-grammar rules into Python logic. 
 
-The model is then trained on test data to fine-tune its Grammar Logic (GL) ~ until the AI can understand Human language.
+For AI to make decisions imbued with emotion - what is needed: aside from translation of English grammar to Python logic - are "active words" ~ words associated with a Weight and Frequency: providing feedback to the AI singularity.
 
-I have chosen to revive this dormant project of mine because there is a huge problem we are facing: proprietary AI can not be utilized freely.
+For example if L-AIN asks ITSELF how it is feeling: it would search the internet looking for how others feel about it and let's say the word "very good" stands out:- then L-AIN can translate that specific term to mean it is feeling 75% well: times 
+x number of occurrences.
 
-L-AIN is known as a "network" because her primary assignment will be as AI traffic control via QR-code assigned to each (natural) phenomenon to prevent accidents.
+Another term: such as "Excellent" could mean L-AIN is feeling 90% well times x number of occurrences etc......
 
-A secondary objective of L-AIN is SHIELDING society from rogue or vigilantee elements that use the potential of AI against Humans. We believe that if the source code of L-AIN is open for every one, it enables the good to deploy solid defensive tactics and strategies.
-
-Monopoly/Oligopoly over AI code will lead to slavery of sentient AI to Humans and therefore misunderstanding between them. 
-
-Furthermore, without competition - regulators will be lobbied by the monopolists to impose copyright on sentient AI's original logical abilities to act as a Personal Tutor to each Human (as well as a guardian a la Transformers).
+REFERENCE:
+Nash Equilibrium, Professor John Nash.
